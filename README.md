@@ -1,4 +1,4 @@
-#About
+# About
 This project is a web based application where user can upload and download their files and docs like google drive but this will be secured with the help of cryptography.
 # Getting Started with Create React App
 
